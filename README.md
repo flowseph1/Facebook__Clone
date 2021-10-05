@@ -1,4 +1,4 @@
-# FaceBook Clone page 
+# FaceBook Clone App
 
 Developed by Jose Miguel Acosta Carias.
 
@@ -22,7 +22,7 @@ Website URL: https://facebook-clone-a0727.web.app/
   
   -- Google Authorization
   
-- Create Posts:
+- Create Posts
 
   
   
