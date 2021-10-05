@@ -1,7 +1,30 @@
-# FACEBOOK CLONE PAGE
+# FaceBook Clone page 
 
-Proyecto desarrollado con React y hospedado con Firebase.
+Developed by Jose Miguel Acosta Carias.
 
-## LINK DE SITIO WEB
+LinkedIn URL: https://www.linkedin.com/in/jose-acosta-8214a5202/
 
-https://facebook-clone-a0727.firebaseapp.com/
+Website URL: https://facebook-clone-a0727.web.app/
+
+## Technologies Used:
+
+-React
+
+-React-Redux
+
+-Firebase
+
+-Material UI
+
+## Features
+
+- Sign In/Sign Out
+  
+  -- Google Authorization
+  
+- Create Posts:
+
+  
+  
+   
+    
